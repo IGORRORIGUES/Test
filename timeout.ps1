@@ -1,7 +1,7 @@
-$i = 1360
+$i = 360
 do {
     Write-Host $i
-    Sleep 1360
+    Sleep 360
     $i--
 } while ($i -gt 0)
 
